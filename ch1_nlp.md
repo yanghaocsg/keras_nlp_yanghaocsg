@@ -1,0 +1,12 @@
+# Natural Language Processing
+Natural Language Processing, or NLP for short, is broadly defined as the automatic manipulation
+of natural language, like speech and text, by software. The study of natural language processing
+has been around for more than 50 years and grew out of the field of linguistics with the rise of
+computers. In this chapter, you will discover what natural language processing is and why it is
+so important. 
+
+After reading this chapter, you will know:
+ What natural language is and how it is dierent from other types of data.
+ What makes working with natural language so challenging.
+ Where the field of NLP came from and how it is dened by modern practitioners.
+Let's get started.
